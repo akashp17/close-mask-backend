@@ -1,0 +1,6 @@
+{
+  "smtpHost": "localhost",
+  "smtpPort": 25,
+  "from": "\"Mask - By Close\" <test@mask.closecheckout.com>",
+  "PARALLEL_BULK_LIMIT": 3
+}
